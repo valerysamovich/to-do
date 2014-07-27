@@ -1,4 +1,4 @@
-to-do-app
-=========
+to-do
+=====
 
 AngularJS TO-DO Application
