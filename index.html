@@ -1,9 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="">
   <head>
     <title>AngularJS TO-DO Application</title>
   </head>
   <body>
+    <!--Header element-->
     <h2>My TO-DO List</h2>
+
+    <!--Form element with "ng-submit"-->
+    <form ng-app-submit="todoAdd()">
+      <input type="text" ng-model="todoImput" size="50" placeholder="Add new" />
+      <input type="submit" />
+    </form>
+
+    </form>
+
+    <!--AngularJS Javascript framework-->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.21/angular.min.js"></script>
   </body>
 </html>
