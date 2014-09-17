@@ -1,7 +1,7 @@
 to-do
 =====
 
-AngularJS TO-DO Application
+AngularJS TO-DO Application.
 
 Developer
 ---------
