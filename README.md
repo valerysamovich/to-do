@@ -1,4 +1,4 @@
 # TODO
 
-AngularJS TO-DO Application.
+AngularJS 1.2.21 TO-DO Application.
 
